@@ -1,7 +1,11 @@
 homepage:
+# 显示【经历/工作/教育】模块
   show_experience: true
+# 显示【新闻/动态】模块
   show_news: true
+# 显示【精选论文】模块
   show_selected_publications: true
+# 新闻最多显示 10 条
   num_news: 10
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
