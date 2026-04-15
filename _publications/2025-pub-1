@@ -6,7 +6,7 @@ pub:            "International Journal of Robust and Nonlinear Control"
 pub_date:       "2026"
 abstract: >-
   A fault-tolerant learning control scheme is proposed for high-speed train trajectory tracking under iteration-varying parameters and actuator faults, with theoretical guarantees and numerical simulations verifying effectiveness.
-#cover:          /assets/images/covers/cover2025.png
+cover:          /assets/images/covers/cover2025.png
 authors:
 - B. Du*
 - S. Gao*
