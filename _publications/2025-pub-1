@@ -1,0 +1,17 @@
+---
+title:          "Fault Tolerant Learning Control for High-Speed Trains With Iteration-Varying Parameters"
+date:           2025-08-31 00:01:00 +0800
+selected:       true
+pub:            "International Journal of Robust and Nonlinear Control"
+pub_date:       "2026"
+abstract: >-
+  A fault-tolerant learning control scheme is proposed for high-speed train trajectory tracking under iteration-varying parameters and actuator faults, with theoretical guarantees and numerical simulations verifying effectiveness.
+cover:          /assets/images/covers/cover2025.jpg
+authors:
+- B. Du*
+- S. Gao*
+- T. Zhang
+- D. Shen
+links:
+  https://doi.org/10.1002/rnc.70177
+---
